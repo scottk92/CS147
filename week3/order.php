@@ -15,7 +15,6 @@
 	</head>
 
 	<body>
-	
 		<div class="banner"></div>
 		
 		<div class="orderarea">
