@@ -160,3 +160,7 @@ label {
 	color:#aaa;
 	font-size:12px;
 }
+
+#book_select {
+	width: 300px;
+}
